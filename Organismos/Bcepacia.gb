@@ -1,0 +1,122 @@
+LOCUS       FOIG01000060            2682 bp    DNA     linear   BCT 03-AUG-2020
+DEFINITION  Burkholderia cepacia strain NFACC38-1 genome assembly, contig:
+            Ga0058964_scaffold00060.60, whole genome shotgun sequence.
+ACCESSION   FOIG01000060 FOIG01000000
+VERSION     FOIG01000060.1
+DBLINK      BioProject: PRJEB17051
+            BioSample: SAMN03159335
+KEYWORDS    WGS.
+SOURCE      Burkholderia cepacia
+  ORGANISM  Burkholderia cepacia
+            Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales;
+            Burkholderiaceae; Burkholderia; Burkholderia cepacia complex.
+REFERENCE   1  (bases 1 to 2682)
+  AUTHORS   Varghese,N. and Submissions,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-OCT-2016) DOE - JOINT GENOME INSTITUTE, LBNL, 2800
+            Mitchell Drive, Walnut Creek, CA 94598, 94598, USA
+COMMENT     The organism was changed from 'Burkholderia sp. NFACC38-1' to
+            'Burkholderia cepacia' in July  2020.
+            
+            ##Taxonomic-Update-Statistics-START##
+            This Genome (query) :: GCA_900111715.1
+            Current Name        :: Burkholderia cepacia
+            Previous Name       :: Burkholderia sp. NFACC38-1
+            Date Updated        :: 2020-07-30
+            Analysis Type       :: Average Nucleotide Identity (ANI)
+            Analysis 1 (A1)     :: Query vs. TYPE genome for current name
+            A1 Genome (subject) :: GCA_001528845.1
+            A1 Name             :: Burkholderia cepacia
+            A1 ANI              :: 98.73%
+            A1 Query Coverage   :: 87.29%
+            A1 Subject Coverage :: 89.33%
+            Analysis 2 (A2)     :: Query vs. NO-TYPE genome for previous name
+            A2 Genome (subject) :: no-type
+            A2 Name             :: Burkholderia sp. NFACC38-1
+            A2 ANI              :: 0%
+            A2 Query Coverage   :: 0%
+            A2 Subject Coverage :: 0%
+            ##Taxonomic-Update-Statistics-END##
+FEATURES             Location/Qualifiers
+     source          1..2682
+                     /organism="Burkholderia cepacia"
+                     /mol_type="genomic DNA"
+                     /strain="NFACC38-1"
+                     /db_xref="taxon:292"
+                     /note="contig: Ga0058964_scaffold00060.60"
+     gene            1194..1802
+                     /locus_tag="SAMN03159335_07981"
+     CDS             1194..1802
+                     /locus_tag="SAMN03159335_07981"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="SEU48500.1"
+                     /db_xref="UniProtKB/TrEMBL:A0A1I0LX81"
+                     /translation="MPTLVGSRGGEVQWAGHCRTFAEIAGTNLRGSSRRGRVSSPRNG
+                     CNVSMQAGLQDSPVDASSPAPAAMTYMAAASLISHAYADSTRLPRPTRRVPNRGPGIV
+                     RGLQPLICDERRGCCRASRGVAISWRLQTDPGDRARATRASAGPAACAIKTMKAGKRA
+                     SRRMKIRIRVGRWPGTPLLLSLTLAKSSAAIAISRWKRCSNS"
+     gene            2199..2284
+                     /locus_tag="SAMN03159335_07982"
+     tRNA            2199..2284
+                     /locus_tag="SAMN03159335_07982"
+                     /product="tRNA-Tyr"
+     gene            2328..2401
+                     /locus_tag="SAMN03159335_07983"
+     tRNA            2328..2401
+                     /locus_tag="SAMN03159335_07983"
+                     /product="tRNA-Gly"
+     gene            2426..2500
+                     /locus_tag="SAMN03159335_07984"
+     tRNA            2426..2500
+                     /locus_tag="SAMN03159335_07984"
+                     /product="tRNA-Thr"
+ORIGIN      
+        1 ctcgtcggta aatcgcttct tcatcgagtt ctccttgcct ctaggataaa agagaactca
+       61 cttgccagat ggctacaaga aacgtctcag gtcacggtgg cctggctgct gctcgagctg
+      121 gggccggggg tgccgattct ccaggattgc ctctgcgaga ctgacgcaaa aggcgatcag
+      181 accgaccgat cgggttggcc ttgcaccgct agctggcgcc ggccaagacc taccatccaa
+      241 acatccatcc acttgctgtt cacggagagg agatcggatc gtgtcgcgac tccgccgcat
+      301 ttctgaccac ttctcgccgc agattcgtgc gttgctggtt acgacctgga gtggcatggc
+      361 ctgctgcgcg aatgccggtt attgtgcgcg gttcctcggc gtattgagca cttctccgcc
+      421 cacaatcgtc gtttccattt cgtatcagag ggtcgcgcct ggcggttccc gacatgagcc
+      481 atcagggtga cctgggcaac gagtggcgca aatccgccgt ttggcgtcct tttgccgaaa
+      541 gctccaggcg actgctgcca atcgagcgca caaagtcgga ttttgcccaa gatgacatct
+      601 cgtagtgatc ttggcttgtt tgtttcttga ctcgtcgcat cttctctcaa atcgacccgt
+      661 tcaaaaaatt ggcgcttccg gcgtgccacg cggaagtcgt tgacgcatag cgcgaaccgg
+      721 acgtacgcaa attcctcaac cagatgccat cagaaattcg cgccggttct ttttgatgag
+      781 cgctggctgt ccgtcccgaa acacgtacac tttttaatga gcgaataggc ggcgccgcca
+      841 aagcagtccc gcccttcacc tatcgacgtg aagagcgtgc ccccgcatcg acgtcagtcg
+      901 atcgcgccct gcatgcggta tccggatcgg agagtgcgga gtcattgccc ggcgtaaacc
+      961 ggcgcgtcgt attcaggcct tgatccctgg tcgacgcgag caccgccggg cagctcgcag
+     1021 cggtcgtgga agtgtggagg tcgtgggcct gctttcccgc gtcttcggat gagtgcgatg
+     1081 cggaaaacgc gcaggcgccg aatcctgcgc aggtatcggt gttcagctgc acgaggcgaa
+     1141 catcgtacgt gcatggggga tgccttgtgt attcgccgcg ataggtcggc cagatgccga
+     1201 ctttggtcgg ttcgcgcggc ggcgaagtgc agtgggccgg gcactgtaga acgttcgcag
+     1261 agattgcggg gacaaacctg cgtggcagct cccggcgcgg ccgtgtgtcg tcgccaagaa
+     1321 atggctgcaa tgtgtcgatg caggctgggc tgcaggattc gcctgtcgac gcgtcatcac
+     1381 cagcgccggc agcgatgacg tatatggcgg cggcatcgtt gatcagccat gcatatgctg
+     1441 actccacgag gttgccccgg ccgaccagac gtgtaccgaa ccgaggccct ggtattgtgc
+     1501 gcgggcttca acctctcata tgcgacgagc ggcgcggctg ctgccgggca tcccgaggcg
+     1561 tggctatcag ctggcgcctc cagacggatc caggtgatcg tgctcgggcg acacgggcgt
+     1621 ctgccggccc ggcggcatgt gcgatcaaaa ccatgaaggc cggaaaaaga gcaagcagac
+     1681 gcatgaagat acgaatcagg gtgggcaggt ggcccgggac gccattgctc ctgtcgctga
+     1741 cgttggcaaa gtctagcgcc gccatcgcga tttctcgttg gaagcgttgc tcaaactcat
+     1801 gatgcgattg ctggaaagtg tcagaaagcc gtgtcacgtc aattgcgggc gggtcgggcc
+     1861 aggcaacccg agaaaccagc tatggactcc caggggtatc taaaacagat catggcatcc
+     1921 gcccggcacg aaatttgcgg aaattttgca tctacccgct tggcagagtg ctcaagagat
+     1981 cgtatgatgg cggtctttcg ttttcggcgc agatgcagat cgacgctgaa agcggagtct
+     2041 gacgaagatg tggcactgat cggtagcacc catgcttgcc ttagccgggc aaggacggga
+     2101 gatcggtggt caggcaggca tcgggaagag ggtgaaaata atcttccgga tgtgcttgac
+     2161 aggggtgcga tgtaccccca taatcgtcag ttctctacgg aggggtgccc gagtggctaa
+     2221 agggggcaga ctgtaaatct gttggcttac gcctacgttg gttcgaatcc aacctcctcc
+     2281 accaagatat cagcgcagtg agcggtaagg aatcgtttgt ggcccgtgcg ggtgtagctc
+     2341 aatggtagag cagaagcctt ccaagcttac gacgagggtt cgattccctt cacccgctcc
+     2401 agaccgcgaa gttgaagcgt aaagcgccca tgtggctcag tggtagagca ctcccttggt
+     2461 aagggagagg tcggcagttc gatcctgccc atgggcacca gcagtaaaaa gtcagtgtct
+     2521 tgttgtttgc gcgcggcgca acctgtgaaa ttccttttgg gagttgaaaa tggccaagga
+     2581 aaagtttgag cggaccaagc cgcacgtgaa cgttggtacg attggtcacg ttgaccacgg
+     2641 caagacgacg ctgacggcag cgatcacgac ggttctgacg aa
+//
+

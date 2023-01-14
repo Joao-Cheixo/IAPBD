@@ -1,0 +1,64 @@
+LOCUS       CABFAC010000073         1949 bp    DNA     linear   BCT 20-MAY-2019
+DEFINITION  Streptococcus pyogenes strain NGAS335 genome assembly, contig:
+            .SRR1105921.68, whole genome shotgun sequence.
+ACCESSION   CABFAC010000073 CABFAC010000000
+VERSION     CABFAC010000073.1
+DBLINK      BioProject: PRJEB32188
+            BioSample: SAMEA5580086
+KEYWORDS    WGS.
+SOURCE      Streptococcus pyogenes
+  ORGANISM  Streptococcus pyogenes
+            Bacteria; Bacillota; Bacilli; Lactobacillales; Streptococcaceae;
+            Streptococcus.
+REFERENCE   1
+  CONSRTM   Pathogen Informatics
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-MAY-2019) WTSI, Pathogen Informatics, Wellcome Trust
+            Sanger Institute, CB10 1SA, United Kingdom
+FEATURES             Location/Qualifiers
+     source          1..1949
+                     /organism="Streptococcus pyogenes"
+                     /mol_type="genomic DNA"
+                     /strain="NGAS335"
+                     /db_xref="taxon:1314"
+                     /note="contig: .SRR1105921.68"
+     assembly_gap    535..840
+                     /estimated_length=306
+                     /gap_type="unknown"
+                     /linkage_evidence="unspecified"
+ORIGIN      
+        1 attctgtaca ttatgattta tatactaata tcaattataa tattgttata agatataatg
+       61 agataccgga gttttctaac cattacctta gaaatgtttc atataacatg ttgacatttt
+      121 atattctggg aataggaacg agtatcagca ttgtagttgc tttaacacgg tttgtaaaag
+      181 aaatttcttt gaatttcaag gaaatcaaga agttagcaaa taaaatgggg atagaagtcc
+      241 tttctgaaaa tgaaaattat tctaaaataa tcgagtttga tgatatactt agaactttac
+      301 atattaaagg tgataatttg aaaagtttga ttgagcgaga aatattggaa aagcaagatc
+      361 tatcctttca aattgcagca ctttcgcatg atataaaaac acctttaacg gttttgaaag
+      421 gaaatcttga gttattagaa ttgactactt taaataaaaa tcaggaaggt tatattgtat
+      481 ctatgaacaa tagtatttct gtttttgaag gctatttcaa ttctttaata tcttnnnnnn
+      541 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+      601 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+      661 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+      721 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+      781 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+      841 tactgtctga gtcaggagag caaattcatt ttgaaatatg gaataatggt gagcgtttca
+      901 gtgatagtac actgaaaaag ggagataaat tattttacac ggaagattat agcagaggta
+      961 acaaacatta tggaatcggt ttggcatttg ttaaaggcgt tgctatcaaa cacggtgggg
+     1021 atcttcaatt gaataatcca gctagaggag gtgctagcgc cataatctcg ataaaaaaga
+     1081 aaatttaata gatttgattg aaactggagt atttcaggca aaaaatcgta aatttttgtg
+     1141 atttttggct aaaatacttt ttttctgaac aaattctgaa cttggggtgt cataataatc
+     1201 atgtaaatat atcggatgca aaaacgtaag agaggaacta gaaaatgaat aacacaatta
+     1261 aagactttga tctcgatttg aaaacaaata aaaaagacac tgctacacct tatgttggta
+     1321 gccgttacct atgtacccct ggttcttgtt ggaaattagt ttgctttaca acaactgtta
+     1381 aataataaag ttatcattat catcaacatt ataatttcaa ataatttgat atatttataa
+     1441 atttagggga gtagactgat tttagtttgc tcctttatta gtagataagg aagttataca
+     1501 tgattaaagc tcagctaaag aatctaataa aaacaattca tctcgtaaaa gaggctggtt
+     1561 tctccctact ggtgttctca attgctatta gcttatttca agggatttta cccattttta
+     1621 gtatgctact agttcaaaaa atgttaaaca ttataacgac tgatataaaa aattttcaca
+     1681 cattgatgat tgcttttatc tcatatattg ctttaacatt attgacaatt ataataggag
+     1741 aagttgatag ttatattgat accaaattac agatacttct tcactataag atgaaccatt
+     1801 tagttatgca gaaaactgta aagttaacat tggctgaatt tgagacacca gaaatctatg
+     1861 atgatatcac tcgcatacaa aatcaaatat cttataaacc ttttcaaata tataagtcaa
+     1921 ttatttctgt attatcttcg ttagtatca
+//
+

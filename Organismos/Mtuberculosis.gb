@@ -1,0 +1,155 @@
+LOCUS       JLDP01000072            3938 bp    DNA     linear   BCT 29-APR-2014
+DEFINITION  Mycobacterium tuberculosis MD14709 adTyB-supercont1.67.C72, whole
+            genome shotgun sequence.
+ACCESSION   JLDP01000072 JLDP01000000
+VERSION     JLDP01000072.1
+DBLINK      BioProject: PRJNA234644
+            BioSample: SAMN02584668
+KEYWORDS    WGS.
+SOURCE      Mycobacterium tuberculosis MD14709
+  ORGANISM  Mycobacterium tuberculosis MD14709
+            Bacteria; Actinomycetota; Corynebacteriales; Mycobacteriaceae;
+            Mycobacterium; Mycobacterium tuberculosis complex.
+REFERENCE   1  (bases 1 to 3938)
+  AUTHORS   Earl,A.M., Crudu,V., Cohen,T., Stratan,E., Desjardins,C., Abeel,T.,
+            Young,S., Zeng,Q., Gargeya,S., Abouelleil,A., Alvarado,L.,
+            Chapman,S.B., Gainer-Dewar,J., Goldberg,J., Griggs,A., Gujja,S.,
+            Hansen,M., Howarth,C., Imamovic,A., Larimer,J., Murphy,C.,
+            Naylor,J., Pearson,M., Poon,T.W., Priest,M., Roberts,A., Saif,S.,
+            Shea,T., Sykes,S., Wortman,J., Nusbaum,C. and Birren,B.
+  CONSRTM   The Broad Institute Genomics Platform, The Broad Institute Genome
+            Sequencing Center for Infectious Disease
+  TITLE     The Genome Sequence of Mycobacterium tuberculosis MD14709
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 3938)
+  AUTHORS   Earl,A.M., Crudu,V., Cohen,T., Stratan,E., Desjardins,C., Abeel,T.,
+            Young,S., Zeng,Q., Gargeya,S., Abouelleil,A., Alvarado,L.,
+            Chapman,S.B., Gainer-Dewar,J., Goldberg,J., Griggs,A., Gujja,S.,
+            Hansen,M., Howarth,C., Imamovic,A., Larimer,J., Murphy,C.,
+            Naylor,J., Pearson,M., Poon,T.W., Priest,M., Roberts,A., Saif,S.,
+            Shea,T., Sykes,S., Wortman,J., Nusbaum,C. and Birren,B.
+  CONSRTM   The Broad Institute Genomics Platform, The Broad Institute Genome
+            Sequencing Center for Infectious Disease
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-APR-2014) Broad Institute of MIT and Harvard, 7
+            Cambridge Center, Cambridge, MA 02142, USA
+COMMENT     Please be aware that the annotation is done automatically with
+            little or no manual curation.
+            
+            ##Genome-Assembly-Data-START##
+            Assembly Method       :: allpaths v. R48559
+            Assembly Name         :: Myco_tube_MD14709_V1
+            Genome Coverage       :: 88.0x
+            Sequencing Technology :: Illumina
+            ##Genome-Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..3938
+                     /organism="Mycobacterium tuberculosis MD14709"
+                     /mol_type="genomic DNA"
+                     /submitter_seqid="adTyB-supercont1.67.C72"
+                     /strain="MD14709"
+                     /host="Homo sapiens"
+                     /db_xref="taxon:1447517"
+                     /country="Moldova: Chisinau"
+                     /collection_date="14-Oct-2010"
+     gene            complement(<1..>3938)
+                     /locus_tag="AJ49_04033"
+     CDS             complement(<1..>3938)
+                     /locus_tag="AJ49_04033"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="polyketide synthase Pks12"
+                     /protein_id="KAQ74249.1"
+                     /db_xref="TubercuList:Rv2048c"
+                     /translation="SEGGGMLVLQRLSDARRLGHPVLAVVVGSAVNQDGASNGLTAPN
+                     GPSQQRVVRAALANAGLSAAEVDVVEGHGTGTTLGDPIEAQALLATYGQDRGEPGEPL
+                     WLGSVKSNMGHTQAAAGVAGVIKMVLAMRHELLPATLHVDVPSPHVDWSAGAVELLTA
+                     PRVWPAGARTRRAGVSSFGISGTNAHVIIEAVPVVPRREAGWAGPVVPWVVSAKSESA
+                     LRGQAARLAAYVRGDDGLDVADVGWSLAGRSVFEHRAVVVGGDRDRLLAGLDELAGDQ
+                     LGGSVVRGTATAAGKTVFVFPGQGSQWLGMGMGLHAGYPVFAEAFNTVVGELDRHLLR
+                     PLREVMWGHDENLLNSTEFAQPALFAVEVALFRLLGSWGVRPDFVMGHSIGELSAAHV
+                     AGVLSLENAAVLVAARGRLMQALPAGGAMVAVQAAEEEVRPLLSAEVDIAAVNGPASL
+                     VISGAQNAVAAVADQLRADGRRVHQLAVSHAFHSPLMDPMIDEFAAVAAGIAIGRPTI
+                     GVISNVTGQLAGDDFGSAAYWRRHIRQAVRFADSVRFAQAAGGSRFLEVGPSGGLVAS
+                     IEESLPDVAVTTMSALRKDRPEPATLTNAVAQGFVTGMDLDWRAVVGEAQFVELPTYA
+                     FQRRRFWLSGDGVAADAAGLGLAASEHALLGAVIDLPASGGVVLTGRLSPSVQGWLAD
+                     HSVAGVTIFPGAGFVELAIRAGDEVGCGVVDELTLAAPLVLPASGSVAVQVVVNGPDE
+                     SGVRGVSVYSRGDVGTGWVLHAEGALRAGSAEPTADLAMWPPAGAVPVEVADGYQQLA
+                     ERGYGYGPAFRGLTAMWRRGDEVFAEVALPADAGVSVTGFGVHPVLLDAALHAVVLSA
+                     ESAERGQGSVLVPFSWQGVSLHAAGASAVRARIAPVGPSAVSIELADGLGLPVLSVAS
+                     MLARPVTDQQLRAAVSSSGPDRLFEVTWSPQPSAAVEPLPVCAWGTTEDSAAVVFESV
+                     PLAGDVVAGVYAATSSVLDVLQSWLTRDGAGVLVVMTRGAVALPGEDVTDLAGAAVWG
+                     LVRSAQTEHPGRIVLVDSDAPLDDSALAAVVTTGEPQVLWRRGEVYTARVHGSRAVGG
+                     LLVPPSDRPWRLAMSTAGTFENLRLELIPDADAPLGPGQVRVAVSAIAANFRDVMIAL
+                     GLYPDPDAVMGVEACGVVIETSLNKGSFAVGDRVMGLFPEGTGTVASTDQRLLVKVPA
+                     GWSHTAAATTSVVFATAHYALVDLAAARSGQRVLIHAGTGGVGMAAVQLARHLGLEVF
+                     ATASKGKWDTLRAMGFDDDHISDSRSLEFEDKFRAATGGRGFDVVLDSLAG"
+ORIGIN      
+        1 ccggccagcg agtccaacac cacgtcgaac cctcgaccgc cagtggccgc gcggaacttg
+       61 tcctcgaact ctaggctacg tgaatcggat atgtggtcgt cgtcaaagcc catggcgcgc
+      121 aaggtgtccc acttaccctt gctcgcggtc gcgaacacct ccaaccccag atgccgagcc
+      181 agctgcaccg ccgccatgcc caccccgccg gtgccggcat ggatcaacac gcgctggccc
+      241 gacctagcag cggccaaatc caccagcgcg tagtgggcgg tggcgaacac caccgaggtg
+      301 gtggcggcgg ccgtgtgcga ccaccccgcc ggcaccttga ccagcagccg ctggtcggtg
+      361 ctggcgacgg ttccggtgcc ctcggggaac aggcccatta cccggtctcc gaccgcgaaa
+      421 gatcccttgt tcaagctggt ttcgataacg acgccgcagg cctcaacgcc catgaccgcg
+      481 tccggatcgg gatacagacc cagcgcgatc atgacgtcgc ggaagttggc ggcaatcgcg
+      541 gacaccgcaa ctcgaacctg cccggggccc agcggcgcgt cggcatcggg aatcagctcc
+      601 agccgcagat tctcgaaggt gccggcggtg ctcatcgcca accgccacgg ccggtcactc
+      661 ggaggaacca acagcccgcc caccgcgcgg ctaccgtgca cccgcgccgt ataaacctcc
+      721 ccgcgccgcc acaacacctg cggctcgcct gtcgtcacta ccgccgccag ggccgaatcg
+      781 tcgagcggcg catcggaatc gaccagcacg atccggcccg gatgctcggt ctgcgccgac
+      841 cgcaccaatc cccatacggc ggcacccgcc aaatcggtga catcttcgcc cggcaatgcc
+      901 accgcaccgc gggtcatcac caccaaaacc cctgccccat cacgggttag ccacgactgc
+      961 aacacatcaa gcaccgaact cgtggcggca tacacgcccg ccactacgtc accggccaga
+     1021 ggcaccgact caaacaccac cgccgccgag tcctccgttg tcccccaggc gcacaccggt
+     1081 agcggctcca ccgcggccga tggctgcggc gaccaggtga cctcgaatag ccggtccgga
+     1141 cccgagctcg acaccgccgc ccgcaattgc tgatcggtca ccggtcgggc cagcatggaa
+     1201 gcgactgaca acaccggcaa tcccaaccca tcggccagct cgatcgacac cgccgacgga
+     1261 cccactggcg cgatgcgggc ccgcaccgcc gacgcccccg ctgcatgcaa cgagaccccc
+     1321 tgccaggaga acgggaccaa caccgaacct tggccacgct cggcgctttc cgcgctcaac
+     1381 accaccgcgt gcaaggccgc atccagcagc accggatgca ccccgaagcc ggtgaccgag
+     1441 accccggcat cggcgggcaa cgccacctcc gcgaacacct catcaccccg gcgccacatc
+     1501 gcggtcagtc cccgaaacgc cggcccgtag ccgtatccgc gctcggccag ctgctgatag
+     1561 ccgtccgcca cctcaaccgg gacggcgccc gccggcggcc acatcgctag atccgcggtc
+     1621 ggttccgccg acccggcgcg cagcgcgccc tcggcgtgca acacccagcc ggtaccgacg
+     1681 tcaccacgcg aatacaccga caccccgcgc acgccggact cgtcgggacc attgacgacc
+     1741 acctgaaccg ccaccgaacc ggatgcgggc aacaccaacg gcgcggccag cgttaattcg
+     1801 tcgacaacgc cacaacccac ttcgtcgccg gcgcggatcg ccaactccac aaatcccgct
+     1861 cccgggaaga tcgtcacgcc ggcaacggag tggtcggcca accagccctg cacgctgggc
+     1921 gacagccgac ccgtcaacac caccccgccc gaggccggca gatcgatcac cgcgcccaag
+     1981 agcgcgtgct cactggccgc caaccccaag cctgccgcgt ccgccgcgac accatcaccg
+     2041 gacagccaaa accgccgccg ttggaaggca tacgtcggca actcgacaaa ctgcgcctcg
+     2101 cctaccacag cgcgccaatc caggtccata ccggtgacaa acccttgcgc gacggcgttg
+     2161 gtcaacgtcg ccggctcggg gcgatccttg cgcagcgcag acatcgttgt caccgcaacg
+     2221 tcgggcaacg actcttcgat cgacgcaaca aggccaccgc tgggcccgac ttcgaggaat
+     2281 cggctgcctc cggccgcctg cgcgaagcgc acactgtcgg cgaaccgcac ggcttgccgg
+     2341 atgtgacgtc gccagtaggc cgctgatccg aaatcgtcgc ccgccaactg cccggtcacg
+     2401 ttggagatga ctccgatggt gggccggccg atggcgattc cggcagcgac ggctgcgaat
+     2461 tcgtcgatca tcggatccat caacggcgag tggaacgcgt gggaaaccgc cagctggtgg
+     2521 actcgtcgtc cgtcggcgcg cagctggtcg gccaccgcgg ccacggcgtt ttgtgcaccc
+     2581 gaaatcacca gtgacgctgg accgttgacc gcagcgatgt caacctcagc gctcagcagc
+     2641 ggccgcacct cttcctcggc ggcttgcacg gcgaccatcg ccccaccggc cggcaacgcc
+     2701 tgcatgagcc ggccgcgggc agccaccaac accgcagcgt tctccaacga caggacaccg
+     2761 gcgacatgtg ccgcagacaa ctcaccgatc gagtggccca tgacaaaatc cggtcgtaca
+     2821 ccccaggatc ccagcaaccg gaacagggca acttccaccg cgaacagcgc gggctgcgcg
+     2881 aattccgtgc tgttcagtag gttttcgtcg tgaccccaca tcacttcgcg cagtgggcgc
+     2941 agcagatgcc ggtcaagttc gcccactacg gtgttgaacg cctcggcgaa caccgggtat
+     3001 ccggcgtgca atcccattcc catgcccagc cattgggagc cttggccggg gaagacgaac
+     3061 accgtcttac ccgccgcagt cgccgtgccc cgaacaaccg agccgcccaa ctggtcaccc
+     3121 gccagctcat cgagcccggc caacaaccga tcacggtccc cgccaaccac caccgcccga
+     3181 tgctcaaaaa ccgaacgacc cgccaacgac caccccacat cggcaacatc gaggccatca
+     3241 tcgccacgca cgtacgcggc caaccgagcc gcctgccccc gcaacgccga ctccgacttc
+     3301 gccgacacca cccacggcac caccggcccc gcccaaccag cctcccgccg cggcaccacc
+     3361 ggcaccgcct cgataatcac atgcgcatta gtgccactaa tcccaaacga cgacaccccc
+     3421 gcacgacgcg tccgagcacc agcaggccac acccgcggcg cggtcaacaa ctccaccgcc
+     3481 cccgccgacc aatccacatg cgggctaggc acatccacgt gcaacgtcgc cggcaacagc
+     3541 tcatggcgca tcgccaacac catcttgatc accccggcca cccccgccgc ggcctgcgta
+     3601 tgacccatat tcgacttcac cgaccccaac cacaaaggtt ctcccggctc cccccgatct
+     3661 tgcccataag tggccaacaa cgcctgagcc tcaatcggat cccccaacgt ggtcccggtc
+     3721 ccatgcccct ccaccacatc cacctcggcc gcgctcaacc cggcattggc caacgccgcc
+     3781 cgcaccaccc gctgctgcga aggaccatta ggcgcggtca acccattcga cgccccatcc
+     3841 tgattaaccg ccgacccgac caccaccgcc aacaccggat gacccaaccg ccgcgcatcc
+     3901 gaaagccgct gcagcaccaa catcccaccg ccctcgga
+//
+

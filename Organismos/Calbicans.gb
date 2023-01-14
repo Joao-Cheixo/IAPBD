@@ -1,0 +1,65 @@
+LOCUS       BD267550                1672 bp    DNA     linear   PAT 04-NOV-2005
+DEFINITION  Candida albicans SRB-7.
+ACCESSION   BD267550
+VERSION     BD267550.1
+KEYWORDS    JP 2002535989-A/1.
+SOURCE      Candida albicans
+  ORGANISM  Candida albicans
+            Eukaryota; Fungi; Dikarya; Ascomycota; Saccharomycotina;
+            Saccharomycetes; Saccharomycetales; Debaryomycetaceae;
+            Candida/Lodderomyces clade; Candida.
+REFERENCE   1  (bases 1 to 1672)
+  AUTHORS   Thompson,C.M.
+  TITLE     Candida albicans SRB-7
+  JOURNAL   Patent: JP 2002535989-A 1 29-OCT-2002;
+            ANADYS PHARMACEUTICALS INC
+COMMENT     OS   Candida albicans
+            PN   JP 2002535989-A/1
+            PD   29-OCT-2002
+            PF   31-JAN-2000 JP 2000597434
+            PR   04-FEB-1999 US    60/118604
+            PI   CRAIG M THOMPSON
+            PC
+            C12N15/09,C07K14/40,C07K16/14,C12N1/15,C12N1/19,C12N1/21,C12N5/ PC
+            10,
+            PC   G01N33/15,G01N33/50,G01N33/566,C12N15/00,C12N5/00 CC   Candida
+            albicans SRB-7
+            FH   Key             Location/Qualifiers
+            FT   source          1..1672
+            FT                   /organism='Candida albicans'.
+FEATURES             Location/Qualifiers
+     source          1..1672
+                     /organism="Candida albicans"
+                     /mol_type="unassigned DNA"
+                     /db_xref="taxon:5476"
+ORIGIN      
+        1 agtttaaaaa tagcctgata tatcaatagg ataggatagg ttaggatggg atgggaaggg
+       61 agggggaggt aatgagttga aggaagaagt aaatacaaaa taaggaactt aaaaaaattg
+      121 ggttgaaact gtgaataaat ggtaatttcg ataagaatga atcaaatcca aataataact
+      181 attattgtag aataaagata tatatctctt ttttagttat aaacctttct tatcaattaa
+      241 agaaaggggg aactaaacag aaaaatgggg gaaagattaa taaattgtgg gaatcaatca
+      301 aatcagctga aagaagaaga agaagaagaa gaaagtcctg cccttccacc cctccccccg
+      361 cgccctcgta ttacataatc aacattaaac gttattatca tcagcattgc cttatttgga
+      421 aatctagcac gtgatattac ataaacacaa cacagaattg gcttctgcac acgaccttac
+      481 ttaacacttg aatcaaaaaa aaaaaaagtc acaacaacaa tattgaaaag ttcaatccaa
+      541 cctatacacc aagaccaact taacccaaca ttccttaatt atggcagata gattaactca
+      601 attacaaatt tgtttagacc agctaattca acaattcaat tcaacgataa attatgtcaa
+      661 taccagtgcc gaacccagtc tattagatga cgatgatgtc aactcctatt ccaatatggc
+      721 agctaatgcc ccattgccac aatcccaaca acaacggcaa caacaaaaga aacaacagga
+      781 accacagcaa gaaatagaac aaccacaaca acaaagtaac cctgaatcaa agagtatttc
+      841 tccgccaaaa gaaaaagtga gttttgataa tgtaatcaat gagttatgca cagatttaat
+      901 tttgaaaagt cgacaaatca aaatgttaat tgattcatta cctggtatag gagttacacc
+      961 caatgaacaa atgaatctaa tcaatgaatt aagtgataaa ttgcaagcta tagaagaaga
+     1021 aagaattcaa aaaatcaaag aaaaagataa tctattaaat ctattagaaa gtatgattaa
+     1081 agaggtagtt aatggtataa ccgaaacaag aatatgataa aaaaagaaat actttcagct
+     1141 tctattgttc tccccccccc tctatttaac ctgtatatgt catacaatca atgtcccaat
+     1201 ttggaaacca tttatgagaa ttacattgat ctaatgtcca tggcaatcca tatgtgattg
+     1261 gtataaattc ataaaagcag tatattgcac tgacaaatat tgttgcagtt attataccac
+     1321 caataatttt gtttttagcg acacgataat tcaaatattg acttaataat aatattccaa
+     1381 aatttaatgc cagtaaataa tgatgtaaat ataagtttct tgacatgaga caataaggaa
+     1441 tataattaat aaaccatccc accaaatatg gccaggaatt gttgtaaaag ttggcatatg
+     1501 gtgatgattt ggatgatgat ggaggagatg cataagggtt taactttata aacgaataaa
+     1561 tggcacattt gaatatagct attaaaccca caaaaaatac cagataataa atggcaacat
+     1621 ttcctaaata ataaaataga cttgattctt catcgattga tttcaaattg ta
+//
+
