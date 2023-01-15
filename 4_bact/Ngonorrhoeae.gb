@@ -1,0 +1,163 @@
+LOCUS       AF345908                2329 bp    DNA     linear   BCT 21-DEC-2001
+DEFINITION  Neisseria gonorrhoeae strain CH811 MinCDE gene cluster, complete
+            sequence.
+ACCESSION   AF345908
+VERSION     AF345908.1
+KEYWORDS    .
+SOURCE      Neisseria gonorrhoeae
+  ORGANISM  Neisseria gonorrhoeae
+            Bacteria; Proteobacteria; Betaproteobacteria; Neisseriales;
+            Neisseriaceae; Neisseria.
+REFERENCE   1  (bases 1 to 2329)
+  AUTHORS   Ramirez-Arcos,S., Szeto,J., Beveridge,T., Victor,C., Francis,F. and
+            Dillon,J.
+  TITLE     Deletion of the cell-division inhibitor MinC results in lysis of
+            Neisseria gonorrhoeae
+  JOURNAL   Microbiology 147 (Pt 1), 225-237 (2001)
+   PUBMED   11160816
+REFERENCE   2  (bases 1 to 2329)
+  AUTHORS   Szeto,J., Ramirez-Arcos,S., Raymond,C., Hicks,L.D., Kay,C.M. and
+            Dillon,J.A.
+  TITLE     Gonococcal MinD Affects Cell Division in Neisseria gonorrhoeae and
+            Escherichia coli and Exhibits a Novel Self-Interaction
+  JOURNAL   J. Bacteriol. 183 (21), 6253-6264 (2001)
+   PUBMED   11591668
+REFERENCE   3  (bases 1 to 2329)
+  AUTHORS   Ramirez-Arcos,S., Salimnia,H., Bergevin,I., Paradisa,M. and
+            Dillon,J.A.
+  TITLE     Expression of Neisseria gonorrhoeae cell division genes ftsZ, ftsE
+            and minD is influenced by environmental conditions
+  JOURNAL   Res. Microbiol. 152 (9), 781-791 (2001)
+   PUBMED   11763238
+REFERENCE   4  (bases 1 to 2329)
+  AUTHORS   Ramirez-Arcos,S.M., Szeto,J.R.T. and Dillon,J.-A.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-FEB-2001) Biochemistry, Microbiology and Immunology,
+            University of Ottawa, 451 Smyth Road, Ottawa, ON K1H 8M5, Canada
+FEATURES             Location/Qualifiers
+     source          1..2329
+                     /organism="Neisseria gonorrhoeae"
+                     /mol_type="genomic DNA"
+                     /strain="CH811"
+                     /db_xref="taxon:485"
+     gene            432..1218
+                     /gene="minC"
+     regulatory      432..437
+                     /regulatory_class="minus_35_signal"
+                     /gene="minC"
+     regulatory      451..456
+                     /regulatory_class="minus_10_signal"
+                     /gene="minC"
+     regulatory      476..479
+                     /regulatory_class="ribosome_binding_site"
+                     /gene="minC"
+     CDS             505..1218
+                     /gene="minC"
+                     /note="cell division inhibitor; involved in cell division
+                     site selection; similar to Escherichia coli MinC"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="MinC"
+                     /protein_id="AAK30125.1"
+                     /translation="MMVYIMNAFDIKSTKMDVLSISLHTSDLFDLEDVLVKLGKKFQE
+                     SGVVPFVLDVQEFDYPESLDLAALVSLFSRHGMQILGLKHSNERWAAVAMKYHLLFCL
+                     SHSENVKELGQVEVQKTEDGQKARKTVLITSPVRTGQQVYAEDGDLIVTGAVNQGAEL
+                     IADGNMHIYAPMRGRALAGAKGDTSARIFIHSMQAELVSVAGIYRNFEQDLPDHLHKQ
+                     PVQILLQDNRLVISAIGSE"
+     misc_difference 968
+                     /gene="minC"
+                     /note="results in a serine to threonine substitution
+                     compared to Neisseria gonorrhoeae FA1090"
+                     /replace="g"
+     gene            1174..2062
+                     /gene="minD"
+     regulatory      1174..1179
+                     /regulatory_class="minus_35_signal"
+                     /gene="minC"
+     regulatory      1194..1199
+                     /regulatory_class="minus_10_signal"
+                     /gene="minC"
+     regulatory      1233..1236
+                     /regulatory_class="ribosome_binding_site"
+                     /gene="minD"
+     CDS             1247..2062
+                     /gene="minD"
+                     /note="ATP-binding protein; putative MinC activator;
+                     involved in cell division; contains alanine to threonine
+                     substitution at amino acid 235 compared to Neisseria
+                     gonorrhoeae FA1090; similar to Escherichia coli MinD"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="MinD"
+                     /protein_id="AAK30126.1"
+                     /translation="MAKIIVVTSGKGGVGKTTTSASIATGLALRGYKTAVIDFDVGLR
+                     NLDLIMGCERRVVYDLINVIQGEATLNQALIKDKNCENLFILPASQTRDKDALTREGV
+                     EKVMQELSGKKMGFEYIICDSPAGIEQGALMALYFADEAIVTTNPEVSSVRDSDRILG
+                     ILQSKSRKAEQGGSVKEHLLITRYSPERVAKGEMLSVQDICDILRIPLLGVIPESQNV
+                     LQASNSGEPVIHQDSVAASEAYKDVIARLLGENREMRFLEAEKKSFFKRLFGG"
+     gene            1827..2329
+                     /gene="minE"
+     regulatory      1827..1832
+                     /regulatory_class="minus_35_signal"
+                     /gene="minE"
+     regulatory      1852..1857
+                     /regulatory_class="minus_10_signal"
+                     /gene="minE"
+     misc_difference 1948
+                     /gene="minE"
+                     /replace="g"
+     regulatory      2054..2058
+                     /regulatory_class="ribosome_binding_site"
+                     /gene="minE"
+     CDS             2066..2329
+                     /gene="minE"
+                     /note="similar to Escherichia coli MinE; putative protein
+                     involved in cell division site selection"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="MinE"
+                     /protein_id="AAK30127.1"
+                     /translation="MSLIELLFGRKQKTATVARDRLQIIIAQERAQEGQTPDYLPTLR
+                     KELMEVLSKYVNVSLDNIRISQEKQDGMDVLELNITLPEQKKV"
+ORIGIN      
+        1 taatggcaat cgcaaattaa accgtaccag cagtcatcgt gctgcaatgc tgcgtaatat
+       61 ggcgaattca ttattgactc acgaaactat tgtaacaact ctgcctaagg ccaaggaatt
+      121 gcgccgtgta gtagagccgt tgattacatt gggtaaaaag ccgtcattgg caagccgccg
+      181 tttggcattt gaccgtactc gcgaccgtga tgttgtagta aaactgtttg gcgatttggg
+      241 tcctcgtttt actgctcgta acggtggtta tgttcgagtg ttgaaatacg gattccgtaa
+      301 aggtgataat gcacctctgg cactggttga attggttgac aaaccggctg ctgagtaatt
+      361 ttagtcatat aacgccatct gccgaaaagc aggtggcgtt atttttgcaa tatctgatag
+      421 ataatatggt attggctatc atgtttaaaa tattaattga atagctaagg tttgcgcggt
+      481 aaacttacat cattaaaaaa ttctatgatg gtttatataa tgaatgcctt cgatataaag
+      541 tcgacaaaga tggacgtatt gtctatatct ttgcatacat cagacttgtt tgatttggaa
+      601 gatgtgctgg tcaaattggg caagaagttt caagagtctg gtgttgttcc atttgttctg
+      661 gatgttcaag aatttgatta tcccgagtct ttggatcttg ctgcattggt ttcgttgttt
+      721 tcaaggcatg gtatgcaaat tttgggtctg aagcattcta atgaacgttg ggctgctgtg
+      781 gctatgaagt atcatttgct gttttgtctg tctcattcgg aaaatgttaa agaactgggt
+      841 caggttgagg tgcagaaaac ggaggatggt cagaaagcaa ggaaaacagt attgattaca
+      901 tcccctgtcc gtaccggtca gcaggtttat gccgaagatg gcgatttgat tgttacgggg
+      961 gcggtcaacc agggggcgga attgattgca gatggcaata tgcatattta tgcgccgatg
+     1021 agagggcgtg ctttggccgg cgccaaaggt gatacttctg cccgcatatt tatccactcc
+     1081 atgcaggcgg agttggtttc tgtcgcgggg atttaccgta attttgaaca ggatttgccg
+     1141 gaccatctgc acaagcagcc ggtacagata ttgttgcagg ataaccgatt ggttatcagt
+     1201 gcaattggct cagagtaatt gtttgatatt ttaaaaagga aatattgtgg caaaaattat
+     1261 tgtagtaact tcaggcaagg gcggtgtcgg taaaacgact accagtgcaa gtattgcaac
+     1321 aggtttggca ttacgcggat ataaaactgc ggtaattgat tttgatgtgg gtttgcgcaa
+     1381 cctcgacctc attatgggtt gcgagcgtcg tgtcgtttat gacctgatca atgtcattca
+     1441 gggtgaggcg acgctcaacc aggctttgat taaagataaa aattgtgaaa acctgtttat
+     1501 tttgccggct tcccagactc gggataaaga cgctttgaca cgcgagggcg tagaaaaagt
+     1561 gatgcaggag ctgtccggca agaaaatggg ctttgagtat attatttgcg actctcctgc
+     1621 tggtattgag cagggtgcat tgatggcgtt gtattttgct gatgaagcca ttgtaacgac
+     1681 caatcctgag gtttccagtg tgcgtgactc cgacaggatt ttgggcattt tgcaaagcaa
+     1741 atcccgtaag gcggagcaag gcggttcggt taaagaacat ctgttaatta cgcgttattc
+     1801 tcccgaacgt gtggcaaaag gcgaaatgct gtctgtacag gatatttgcg atattctgcg
+     1861 tattcctttg ctgggtgtga ttcccgaatc ccaaaacgtc ttgcaggcat ccaattccgg
+     1921 agaaccggtc atccatcagg acagcgtagc ggcttccgag gcatataagg acgttattgc
+     1981 ccgtcttttg ggcgagaacc gtgaaatgcg tttcttggaa gctgagaaaa aaagcttctt
+     2041 caaacgtctg ttcggaggat aaggtatgtc attgatcgaa cttttattcg gtagaaagca
+     2101 gaaaacggca accgttgccc gcgaccgcct tcaaatcatc attgcccaag agcgcgccca
+     2161 agaaggtcag actccggatt acctgccgac tttacgtaaa gagttgatgg aagtcctgtc
+     2221 caaatatgtg aatgtttcat tagacaatat ccgtatttcc caagaaaagc aggatggtat
+     2281 ggatgtgctt gagttgaaca ttactttgcc ggaacagaaa aaggtatag
+//
+
