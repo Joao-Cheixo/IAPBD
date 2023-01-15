@@ -1,64 +1,61 @@
-LOCUS       CABFAC010000073         1949 bp    DNA     linear   BCT 20-MAY-2019
-DEFINITION  Streptococcus pyogenes strain NGAS335 genome assembly, contig:
-            .SRR1105921.68, whole genome shotgun sequence.
-ACCESSION   CABFAC010000073 CABFAC010000000
-VERSION     CABFAC010000073.1
-DBLINK      BioProject: PRJEB32188
-            BioSample: SAMEA5580086
+LOCUS       CDGQ01000079            1948 bp    DNA     linear   BCT 31-MAR-2015
+DEFINITION  Streptococcus pyogenes serotype M18 genome assembly M18GASBO5,
+            contig M18GASBO5_82, whole genome shotgun sequence.
+ACCESSION   CDGQ01000079 CDGQ01000000
+VERSION     CDGQ01000079.1
+DBLINK      BioProject: PRJEB7108
+            BioSample: SAMEA2734417
 KEYWORDS    WGS.
-SOURCE      Streptococcus pyogenes
-  ORGANISM  Streptococcus pyogenes
+SOURCE      Streptococcus pyogenes serotype M18
+  ORGANISM  Streptococcus pyogenes serotype M18
             Bacteria; Bacillota; Bacilli; Lactobacillales; Streptococcaceae;
             Streptococcus.
 REFERENCE   1
-  CONSRTM   Pathogen Informatics
+  AUTHORS   Pongolini,Stefano., Casadei,Gabriele. and Scaltriti,Erika.
   TITLE     Direct Submission
-  JOURNAL   Submitted (17-MAY-2019) WTSI, Pathogen Informatics, Wellcome Trust
-            Sanger Institute, CB10 1SA, United Kingdom
+  JOURNAL   Submitted (13-NOV-2014) IZLSLER, Sezione di Parma, Sezione di
+            Parma, IZSLER, Strada Mercati 13/A, 43126, Italy
 FEATURES             Location/Qualifiers
-     source          1..1949
-                     /organism="Streptococcus pyogenes"
+     source          1..1948
+                     /organism="Streptococcus pyogenes serotype M18"
                      /mol_type="genomic DNA"
-                     /strain="NGAS335"
-                     /db_xref="taxon:1314"
-                     /note="contig: .SRR1105921.68"
-     assembly_gap    535..840
-                     /estimated_length=306
-                     /gap_type="unknown"
-                     /linkage_evidence="unspecified"
+                     /strain="DI"
+                     /serotype="M18"
+                     /isolate="M18BO"
+                     /db_xref="taxon:301451"
 ORIGIN      
-        1 attctgtaca ttatgattta tatactaata tcaattataa tattgttata agatataatg
-       61 agataccgga gttttctaac cattacctta gaaatgtttc atataacatg ttgacatttt
-      121 atattctggg aataggaacg agtatcagca ttgtagttgc tttaacacgg tttgtaaaag
-      181 aaatttcttt gaatttcaag gaaatcaaga agttagcaaa taaaatgggg atagaagtcc
-      241 tttctgaaaa tgaaaattat tctaaaataa tcgagtttga tgatatactt agaactttac
-      301 atattaaagg tgataatttg aaaagtttga ttgagcgaga aatattggaa aagcaagatc
-      361 tatcctttca aattgcagca ctttcgcatg atataaaaac acctttaacg gttttgaaag
-      421 gaaatcttga gttattagaa ttgactactt taaataaaaa tcaggaaggt tatattgtat
-      481 ctatgaacaa tagtatttct gtttttgaag gctatttcaa ttctttaata tcttnnnnnn
-      541 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
-      601 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
-      661 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
-      721 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
-      781 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
-      841 tactgtctga gtcaggagag caaattcatt ttgaaatatg gaataatggt gagcgtttca
-      901 gtgatagtac actgaaaaag ggagataaat tattttacac ggaagattat agcagaggta
-      961 acaaacatta tggaatcggt ttggcatttg ttaaaggcgt tgctatcaaa cacggtgggg
-     1021 atcttcaatt gaataatcca gctagaggag gtgctagcgc cataatctcg ataaaaaaga
-     1081 aaatttaata gatttgattg aaactggagt atttcaggca aaaaatcgta aatttttgtg
-     1141 atttttggct aaaatacttt ttttctgaac aaattctgaa cttggggtgt cataataatc
-     1201 atgtaaatat atcggatgca aaaacgtaag agaggaacta gaaaatgaat aacacaatta
-     1261 aagactttga tctcgatttg aaaacaaata aaaaagacac tgctacacct tatgttggta
-     1321 gccgttacct atgtacccct ggttcttgtt ggaaattagt ttgctttaca acaactgtta
-     1381 aataataaag ttatcattat catcaacatt ataatttcaa ataatttgat atatttataa
-     1441 atttagggga gtagactgat tttagtttgc tcctttatta gtagataagg aagttataca
-     1501 tgattaaagc tcagctaaag aatctaataa aaacaattca tctcgtaaaa gaggctggtt
-     1561 tctccctact ggtgttctca attgctatta gcttatttca agggatttta cccattttta
-     1621 gtatgctact agttcaaaaa atgttaaaca ttataacgac tgatataaaa aattttcaca
-     1681 cattgatgat tgcttttatc tcatatattg ctttaacatt attgacaatt ataataggag
-     1741 aagttgatag ttatattgat accaaattac agatacttct tcactataag atgaaccatt
-     1801 tagttatgca gaaaactgta aagttaacat tggctgaatt tgagacacca gaaatctatg
-     1861 atgatatcac tcgcatacaa aatcaaatat cttataaacc ttttcaaata tataagtcaa
-     1921 ttatttctgt attatcttcg ttagtatca
+        1 ctccgtagga gtttaagtta atcgctgaga taatatcgct gccagacatt ttactttgcg
+       61 ggattttgtc tttaatcgca agcatgatac tgtcaccaga tagcctcaag agggactgaa
+      121 ttttttctaa ggtcacagac tgatttatca agctttttag ctgtgtaaag ttagaggaga
+      181 tagtgttatc ctgattggat atcctgcgct cataacccgc tacagtctct ctcaaactgt
+      241 tgtaattgcc ctctgcggat tgtaatcgcc gctgatagct agctaagttc tgctgcacac
+      301 gactgacagc tccttcgcgg ttacgtatct cttgtgagat ttggctagct gttgactgct
+      361 gtacagctct tagtccgctg atttgagact cgagctccgt cctcatgcct tgattactac
+      421 gagtaaactc agcacgtaaa ccctcgagct tgttttcgta ggcttcggtc gtgccgcttg
+      481 aggttgttgt gatcttagca gataactgtc ttagctcgtt atcatacttt tgtgataatc
+      541 cttgagcggt tgcttgtatc tcagcttgta aaccgatttt atcattggtt agttgagctt
+      601 ttagaccatt gagccctgcc tgataattag cagacaattg cctatcagca tctcgatagt
+      661 cttgtcgcaa accatcgata ctagcctgta aactagctgt ctgtttgttt gctttgttta
+      721 aatcaagttt tagaccatcg accgtcaagc cgagttgagc ggtcttttgc tctagcaaac
+      781 tcttaagctg gatacgctga ccttgcactg tccttagaaa ctcggactta agtcctcgct
+      841 cagtatcaga tatagtctct ctgatacctt gagccgttgt taaaatctca tttttaatag
+      901 tcgtatcaaa gtatgtctgt aacataccat gattgtttag cttgattttt gcccagagct
+      961 gagagttagc agtatctgtc agctctaaat taagctcttt gaggtcttta aatagtccag
+     1021 tcggattacc tgtcccctcg acaaccacgg gcgccacgta attagttggc ttatctcctc
+     1081 gctcaatcat gagctggtta aagcgagttg taccgataca tttgttattg gctattttaa
+     1141 cgctttttgt gtcaccatca gccgtaaatg tataataagc acgtccatct gagccgattg
+     1201 ttaaatttga ctcgtctatt aaaagtgttg ggtctctgct catttatcct ccttaatcta
+     1261 tttttttggt atgagttttt ttaactcaga aattgcttta tctacgtaat ctttagtcgc
+     1321 agcatgtttt tcagatattg gatcgttaac tgttagatta ccagctacag ttgaacttgc
+     1381 atatgagtga aagccgccat ctggatttac ataaaatttg tctttatttt tatttctgat
+     1441 tctgagcatt ttaccagttg tgcctgcgga cgaattgatg aaaatgcctt gggcagcagt
+     1501 accatttcca ctggctcccc gttttccaac gatatcaata gataacgctg cagcgttttc
+     1561 atcgtatttt gcgttagcgc ttgggttttc atgtgtgatt ttgagcgttc ccaattttct
+     1621 ttcgatacct ctaatttgca tcgcactacc gccctcgtta gcacttgtta tattaagtgc
+     1681 ggaggaaaaa ttaggttcgc ttggctggcg cattacaata tttacagcat tagtcttacc
+     1741 gctgtaatcc acaaattgag ctgactgatc aaacgtatct ttgtcagagc gtaaaatcat
+     1801 caatggtcca tcagtagtat ctttatttgt atacatcacc atagcagcac ctgctgattt
+     1861 agacatatca atgttaatcg ctcctcctgt agaagatgac ttctcaatac cactattagg
+     1921 tttaagccgt agttgtcctg tcactatg
 //
 
