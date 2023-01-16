@@ -1,0 +1,46 @@
+LOCUS       MA355827                 442 bp    DNA     linear   PAT 31-AUG-2018
+DEFINITION  JP 2018068315-A/160: SEQUENCES FOR DETECTION AND IDENTIFICATION OF
+            METHICILLIN-RESISTANT STAPHYLOCOCCUS AUREUS (MRSA) OF MREJ TYPE
+            XXI.
+ACCESSION   MA355827
+VERSION     MA355827.1
+KEYWORDS    JP 2018068315-A/160.
+SOURCE      Staphylococcus aureus
+  ORGANISM  Staphylococcus aureus
+            Bacteria; Bacillota; Bacilli; Bacillales; Staphylococcaceae;
+            Staphylococcus.
+REFERENCE   1  (bases 1 to 442)
+  AUTHORS   Menard,C. and Roger-dalbert,C.
+  TITLE     SEQUENCES FOR DETECTION AND IDENTIFICATION OF METHICILLIN-RESISTANT
+            STAPHYLOCOCCUS AUREUS (MRSA) OF MREJ TYPE XXI
+  JOURNAL   Patent: JP 2018068315-A 160 10-MAY-2018;
+            GENEOHM SCIENCES CANADA INC
+COMMENT     OS   Staphylococcus aureus
+            PN   JP 2018068315-A/160
+            PD   10-MAY-2018
+            PF   26-DEC-2017 JP 2017250217
+            PR   06-APR-2012 US 61/621368
+            PA   GENEOHM SCIENCES CANADA INC
+            PI   christian menard,celine roger-dalbert
+            PT   'SEQUENCES FOR DETECTION AND IDENTIFICATION OF
+            PT   METHICILLIN-RESISTANT
+            PT   STAPHYLOCOCCUS AUREUS (MRSA) OF MREJ TYPE XXI'
+            PS   N160
+            CC
+            FH   Key             Location/Qualifiers.
+FEATURES             Location/Qualifiers
+     source          1..442
+                     /organism="Staphylococcus aureus"
+                     /mol_type="unassigned DNA"
+                     /db_xref="taxon:1280"
+ORIGIN      
+        1 gatcaatctt tgtcggtaca cgatattctt cacgactaaa taaacgctca ttcgcgattt
+       61 tataaatgaa tgttgataac aatgttgtat tatctactga aatctcatta cgttgcatcg
+      121 gaaacattgt gttctgtatg taaaagccgt cttgataatc tttagtagta ccgaagctgg
+      181 tcatacgaga gttatatttt ccagccaaaa cgatattttt ataatcatta cgtgaaaaag
+      241 gtttcccttc attatcacac aaatatttta gcttttcagt ttctatatca actgtagctt
+      301 ctttatccat acgttgaata attgtacgat tctgacgcac catcttttgc acacctttaa
+      361 tgttatttgt tttaaaagca tgaataagtt tttcaacaca acgatgtgaa tcttctaaga
+      421 agtcaccgta aaatgaagga tc
+//
+
